@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raghad-Aqeel
+- 👋 Hi, I’m Raghad Aqeel
 - 👀 I’m interested in Computer Network Major and Cyber Security Field
 - 🌱 I’m currently a fresh Graduate Student
 - 💞️ I’m looking to collaborate on ...
