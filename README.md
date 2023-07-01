@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Network Major and Cyber Security Field
 - 🌱 I’m currently a fresh Graduate Student
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Twitter: @
+- 📫 How to reach me. Twitter: @Raghady6 LinkedIn: linkedin.com/in/raghad-alali-033687272
 
 <!---
 Raghad-Aqeel/Raghad-Aqeel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
